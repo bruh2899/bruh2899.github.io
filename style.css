@@ -1,0 +1,19 @@
+@font-face {
+font-family: 'SourceSansPro';
+src: url('fonts/SourceSansPro-Regular.otf') format('truetype');
+font-weight: 300;
+font-style: normal;
+}
+
+
+html, body {
+  background-color: #008CFF;
+}
+
+.NormalText {
+  font-family: "SourceSansPro";
+}
+
+.NormalLinks {
+  font-family: "SourceSansPro";
+}
